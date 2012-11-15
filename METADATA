@@ -1,5 +1,5 @@
 {
-  "name": "Cookline",
+  "title": "Cookline",
   "platform_features": [
     {
       "feature_group": "graph_api"
