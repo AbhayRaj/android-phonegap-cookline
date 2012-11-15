@@ -1,0 +1,41 @@
+{
+  "name": "Cookline",
+  "platform_features": [
+    {
+      "feature_group": "graph_api"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "html"
+    },
+    {
+      "name": "nodejs"
+    },
+    {
+      "name": "android"
+    }
+  ],
+  "sdks": [
+    {
+      "name": "javascript",
+      "version": "671604"
+    },
+    {
+      "name": "android",
+      "version": "1.5.0"
+    }
+  ],
+  "screenshots": [
+    {
+      "url": "screenshots/sample_phonegap_cookline_1.png"
+    }
+  ],
+  "tutorial": [
+    {
+      "url": "https://github.com/fbsamples/android-phonegap-cookline/blob/master/README.md"
+    }
+  ],
+  "featured": false,
+  "deprecated": false
+}
