@@ -31,11 +31,9 @@
       "url": "screenshots/sample_phonegap_cookline_1.png"
     }
   ],
-  "tutorial": [
-    {
-      "url": "https://github.com/fbsamples/android-phonegap-cookline/blob/master/README.md"
-    }
-  ],
+  "tutorial": {
+    "url": "https://github.com/fbsamples/android-phonegap-cookline/blob/master/README.md"
+  },
   "featured": false,
   "deprecated": false
 }
