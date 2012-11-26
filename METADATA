@@ -28,7 +28,13 @@
   ],
   "screenshots": [
     {
-      "url": "screenshots/sample_phonegap_cookline_1.png"
+      "url": "screenshots/sample_phonegap_cookline_1.png",
+    },
+    {
+      "url": "screenshots/sample_phonegap_cookline_2.png",
+    },
+    {
+      "url": "screenshots/sample_phonegap_cookline_3.png",
     }
   ],
   "tutorial": {
